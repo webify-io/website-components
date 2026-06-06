@@ -16,3 +16,8 @@
 ![scroll_animation](https://github.com/HoanghoDev/youtube_v2/assets/110652388/321f93c7-99ab-4bb0-9471-21e912f1143b)
 # 3d Rotate CSS Only
 ![3D_animation_css_ook](https://github.com/HoanghoDev/youtube_v2/assets/110652388/37d37bb8-6a67-4eb0-810f-ffa1a3a47acb)
+
+---
+
+## Credits
+- **Maintained by:** [Webify®](https://www.webify.org.za/)
