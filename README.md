@@ -19,5 +19,5 @@
 
 ---
 
-## Credits
+### Credits
 - **Maintained by:** [Webify®](https://www.webify.org.za/)
